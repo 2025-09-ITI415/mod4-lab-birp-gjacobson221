@@ -4,7 +4,6 @@ using UnityStandardAssets.CrossPlatformInput;
 using UnityStandardAssets.Utility;
 using Random = UnityEngine.Random;
 
-#pragma warning disable 618, 649
 namespace UnityStandardAssets.Characters.FirstPerson
 {
     [RequireComponent(typeof (CharacterController))]
@@ -88,7 +87,6 @@ namespace UnityStandardAssets.Characters.FirstPerson
         private void PlayLandingSound()
         {
             m_AudioSource.clip = m_LandSound;
-            m_AudioSource.pitch = Random.Range(0.85f, 1.15f);
             m_AudioSource.Play();
             m_NextStep = m_StepCycle + .5f;
         }
@@ -139,7 +137,6 @@ namespace UnityStandardAssets.Characters.FirstPerson
         private void PlayJumpSound()
         {
             m_AudioSource.clip = m_JumpSound;
-            m_AudioSource.pitch = Random.Range(0.85f, 1.15f);
             m_AudioSource.Play();
         }
 
@@ -173,7 +170,6 @@ namespace UnityStandardAssets.Characters.FirstPerson
             // excluding sound at index 0
             int n = Random.Range(1, m_FootstepSounds.Length);
             m_AudioSource.clip = m_FootstepSounds[n];
-            m_AudioSource.pitch = Random.Range(0.75f, 1.25f);
             m_AudioSource.PlayOneShot(m_AudioSource.clip);
             // move picked sound to index 0 so it's not picked next time
             m_FootstepSounds[n] = m_FootstepSounds[0];
