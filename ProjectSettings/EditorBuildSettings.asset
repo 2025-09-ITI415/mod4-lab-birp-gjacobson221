@@ -4,7 +4,16 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Final Project/game over.unity
+    guid: 4eee843f7f4e0c748a4126c03e3abdd4
+  - enabled: 1
+    path: Assets/Final Project/main menu.unity
+    guid: 656e303bb1bb0154bb20f2ab04ffb7f2
+  - enabled: 1
+    path: Assets/Final Project/main game.unity
+    guid: f428e478086ff4941a4c6471e85601e6
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -1,15 +1,18 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 [RequireComponent(typeof(Rigidbody2D))]
 [RequireComponent(typeof(Collider2D))]
 public class PlayerMovement : MonoBehaviour
 {
+    private Animator animator;
     private Camera mainCamera;
     private Rigidbody2D rb;
     private Collider2D capsuleCollider;
 
     private Vector2 velocity;
     private float inputAxis;
+    private float idleTimer = 0f;
 
     [Header("Movement")]
     public float moveSpeed = 8f;
@@ -32,6 +35,7 @@ public class PlayerMovement : MonoBehaviour
         mainCamera = Camera.main;
         rb = GetComponent<Rigidbody2D>();
         capsuleCollider = GetComponent<Collider2D>();
+        animator = GetComponentInChildren<Animator>();
     }
 
     private void OnEnable()
@@ -63,35 +67,62 @@ public class PlayerMovement : MonoBehaviour
         }
 
         ApplyGravity();
+
+        if (Mathf.Abs(velocity.x) < 0.1f) // player not moving
+            idleTimer += Time.deltaTime;
+        else
+            idleTimer = 0f; // reset when moving
+
+        animator.SetFloat("Speed", Mathf.Abs(velocity.x));
+        animator.SetBool("IsJumping", jumping);
+        animator.SetFloat("IdleTimer", idleTimer);
+        animator.SetBool("Grounded", grounded);
+
+        if (transform.position.y < -20f)
+        {
+            Die();
+        }
+
+    }
+
+    private void Die()
+    {
+        enabled = false;
+        rb.velocity = Vector2.zero;
+        SceneManager.LoadScene("game over");
     }
 
     private void FixedUpdate()
     {
         Vector2 position = rb.position;
         position += velocity * Time.fixedDeltaTime;
-
-        Vector2 leftEdge = mainCamera.ScreenToWorldPoint(Vector2.zero);
-        Vector2 rightEdge = mainCamera.ScreenToWorldPoint(new Vector2(Screen.width, Screen.height));
-        position.x = Mathf.Clamp(position.x, leftEdge.x + 0.5f, rightEdge.x - 0.5f);
-
         rb.MovePosition(position);
     }
 
     private void HorizontalMovement()
     {
         inputAxis = Input.GetAxis("Horizontal");
-        velocity.x = Mathf.MoveTowards(velocity.x, inputAxis * moveSpeed, moveSpeed * Time.deltaTime);
+        velocity.x = Mathf.MoveTowards(
+            velocity.x,
+            inputAxis * moveSpeed,
+            moveSpeed * Time.deltaTime
+        );
 
-        if (CastCheck(new Vector2(Mathf.Sign(velocity.x), 0f), Mathf.Abs(velocity.x * Time.deltaTime) + 0.05f))
+        if (Mathf.Abs(velocity.x) > 0.01f &&
+            CastCheck(Vector2.right * Mathf.Sign(velocity.x), 0.05f))
         {
             velocity.x = 0f;
         }
 
-        if (velocity.x > 0f)
-            transform.eulerAngles = Vector3.zero;
+        if (velocity.x > 0.01f)
+        {
+            transform.localScale = new Vector3(-1f, 1f, 1f); 
+        }
+        else if (velocity.x < -0.01f)
+        {
+            transform.localScale = new Vector3(1f, 1f, 1f); 
+        }
 
-        else if (velocity.x < 0f)
-            transform.eulerAngles = new Vector3(0f, 180f, 0f);
     }
 
     private void GroundedMovement()

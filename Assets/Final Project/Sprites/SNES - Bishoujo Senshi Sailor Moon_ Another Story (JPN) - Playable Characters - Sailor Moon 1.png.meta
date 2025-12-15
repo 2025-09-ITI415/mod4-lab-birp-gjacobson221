@@ -1,0 +1,5074 @@
+fileFormatVersion: 2
+guid: 46dce879be5026e47a4c468e24f872bf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1035
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7506b6042b39c7b4c8527709fcce63f7
+      internalID: -969967942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1035
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bcfce33b5552e43ad38d764ffdecf6
+      internalID: 838285310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1035
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61277df22b7e294195d246bc1f32093
+      internalID: 97343917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 991
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8917bba99e182408b973df4bb14b78
+      internalID: 825142649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 991
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95f4a8e1cc065d43925aff8ed5866d5
+      internalID: -1957755466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 991
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257a5c09c07610346b9da3ffdff4ad03
+      internalID: 661988741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 991
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b177e487ac51b468c6c690b85a580d
+      internalID: 1453151852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 991
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e87a4ac334458845bcdaa6e1ab7cfd1
+      internalID: 967378806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 991
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0db0849eaa26f44811fc06ab6b0afb
+      internalID: -1887019459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 991
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2884d2246c0b143bd6084850e457a7
+      internalID: -149253059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 991
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823097427843eae4693433db711ded96
+      internalID: -1333413434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 991
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a7bcbb3c419ff43bf87f7951a517ba
+      internalID: 1521381424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 991
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc7bb63d4715b540bcc7c026975ccdc
+      internalID: 266719435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_13
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 991
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cf9a48428cf1a4d90b664c2edcb46e
+      internalID: 1131213136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_14
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 991
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797ade4fbc193914b9f94b83599ebbf5
+      internalID: 972967082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 991
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052b07cfced995d478cb815d1a9a4e99
+      internalID: 171462894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 948
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f976cafcbdc41b04c8c45780e1ac07e1
+      internalID: -1601166902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 948
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83692ccb4aa16724c99ad3e07b89d440
+      internalID: 235121959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_18
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 948
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3ef43bdb3adc24395630e94839ee91
+      internalID: -1310782871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 948
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e13eecdc85690d429f6941e84086fba
+      internalID: 850877411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 948
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2211c91e2af2cb447bbac451fa9c60cb
+      internalID: -429951892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_21
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 948
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7fbe37755513f478d509748b4430ab
+      internalID: -413206671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 948
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcb0f08e76489c4880dd2bd25790aa2
+      internalID: -2081804062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 905
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492ba72bd565c2144ae04df0d5683344
+      internalID: 1384789104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 905
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a351583880bbb1b4f9e88b51b4e886af
+      internalID: -143944318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 905
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253ba95daef18fb4fa25e640415b27b3
+      internalID: 1652636983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 905
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f961c3debdf844bb0cc97b81ae6b5e
+      internalID: -1881478136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 861
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5f552cfb9cc6b4db8ecb92da12a724
+      internalID: 1278187348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 861
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef40678b9b12b14ea03bfd7b6947f19
+      internalID: 1828169954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 818
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcac10023ea760b49a49924e95f01733
+      internalID: 271856876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 818
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2ea8e5ec3510d44be8c59f55861128
+      internalID: 1900249173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 818
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55397cd1589fe8e40838800a42f90215
+      internalID: 367185616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 818
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7573f9b14e35c2c42bc138ea093de8d9
+      internalID: -1648530131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_33
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 818
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be04d8c57e02e442a59ebf960b13794
+      internalID: -499471272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 818
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83359b5db1b25c645920582e5a2c1cf0
+      internalID: -616808465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 808
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74082a621f4322e468a137fcdc7ac7e5
+      internalID: -1686606119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 808
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242634ff7a9977347bda780d78a0d676
+      internalID: 1594915729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 808
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9323c8bd9b6768449a5477d96d3b119e
+      internalID: -305591913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 808
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2556ecea562aeb940a6b94b231de1226
+      internalID: -1179869868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_39
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 808
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1114503c5f3195144be219acffadf68e
+      internalID: -693816845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_40
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 808
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2e000fd394d44429a2a1f88c1401ef
+      internalID: 806190955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 808
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ef3f3cc90b284499ee6adc82da2a23
+      internalID: 250203373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_42
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 808
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22ca25e3fdbfe644b5d0391c11d4a5d
+      internalID: -149499896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_43
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 808
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9615932527085d4883fd38b13bb7ef2
+      internalID: -1682039018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_44
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 808
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422c6420dcff93e44bd4faa7e4a76533
+      internalID: -2108320141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 808
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b7449f1ae1cf14d97ade4cb37d02fd
+      internalID: 2042380094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 764
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ba4f8cc0855ec49a6934159842626a
+      internalID: 632224029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_47
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 764
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694322ada2c34d846b4328287c5d0753
+      internalID: -2038813523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_48
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 764
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cba36bd10de8d4399fe916d9267136
+      internalID: 152481441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_49
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 764
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05554a7a9d82d314e9c807a5a53947bb
+      internalID: -1752427019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_50
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 764
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446b15589ac66884a91adcb4fa6cb150
+      internalID: -148165400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_51
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 764
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff68a5bf33d6884391f59109087b161
+      internalID: -1914441663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_52
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 764
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06b3ab563e8a7d4ea312d89afccdbd8
+      internalID: 707703861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 764
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a6668dff491f248b73ab3eacb09ad4
+      internalID: -1760324992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_54
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 764
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6fb8db7bf04684198cb70d627e7c01
+      internalID: -1709871912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_55
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 764
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a8981771fce3d419b04f89b666d1fc
+      internalID: 2029871705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_56
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 764
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ecfa4d7886a434886f84638a34e943
+      internalID: -2003925415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 721
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5d53aec1e30cd4da8a1645746c9afc
+      internalID: 216412135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_58
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 721
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b4aa2e87bb04842b0d967c3ab7b186
+      internalID: 1460623927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_59
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 721
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a055b28bc635044a94ec80f3544c2b7
+      internalID: -1151838031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_60
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 721
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2bdfdf04d3d304c868150c32268213
+      internalID: -1140124770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_61
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 721
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97784e485cb372458d9671b9539a9d8
+      internalID: 1745256450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_62
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 721
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82f7a2d31032e044a964cf2b560047c
+      internalID: -317848833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_63
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 721
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6db1a2fb9eef64ea9c3375c31d290f
+      internalID: 1738740077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 721
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b041cd743ab86745a555fde2301e9f9
+      internalID: -199931226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_65
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 721
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89370098587deb4f86120d2bc5a7ba0
+      internalID: -1451042828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_66
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 721
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fff02b444501d43a1d628bcaca29d8
+      internalID: 488368294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_67
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 721
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f1a70e447e2734896bc4240b04b68f
+      internalID: 246007488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_68
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 721
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6642267a789061f43b064647891ab40a
+      internalID: -264223754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_69
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 721
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a0c911ebf1d9e45a8310bce79f951c
+      internalID: -904891162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 674
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3f9d786921c5b4cb9bd73fd62d0d2f
+      internalID: -1607618769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_71
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 674
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f12f2299e7b6c4e87779ecccdd21e3
+      internalID: -1008494212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_72
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 674
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3355ceba90ba4214eb4ccc4915a240ea
+      internalID: 938660233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_73
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 674
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114d4585f46b21a498a5d284b28af0aa
+      internalID: 1649759916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_74
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 674
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f22cbcadbbe16344b961509a8033023
+      internalID: -1879585317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_75
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 674
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a140d71400e0d6144bffc85ca807b924
+      internalID: -254008436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_76
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 674
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48210f8d295f42499837dd3b6ef8a4d
+      internalID: -753925912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_77
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 674
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4ac0976a7195341815c86e840cd91d
+      internalID: -249570607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_78
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 674
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e651a27f1870e8439f238f2eb86063a
+      internalID: 982913551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_79
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 674
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d515948ae33824eafc30b8be84481c
+      internalID: -407643754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_80
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 674
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabd38130534737458ce5222c77dbfc9
+      internalID: -37049796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_81
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 674
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c37af09a00d5c14d89766d7ef5b5f35
+      internalID: 2119885912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_82
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 674
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279475a5ef73aa048ad4d415110b1025
+      internalID: -716149363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_83
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 627
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417946dbed98cc64c825d18d7d49062a
+      internalID: -1650331439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_84
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 627
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fa548ad3ec9c14c995b55667ec5006
+      internalID: -1206033490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_85
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 627
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01402e00b954d1e4ba5137bc3afc1bfb
+      internalID: 1553228343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_86
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 627
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709692f21ea8b2141989c7adbdadf78e
+      internalID: -1521518244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_87
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 627
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ce13806e116534a9833dc517cacffd
+      internalID: 1313507505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_88
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 627
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fc79253789ff1479772b3733498696
+      internalID: -913886667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_89
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 659
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1c1871906b0684cb01f7b7450ffe14
+      internalID: 2003822713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_90
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 627
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a116558d746bd2e4a80a861b0416bdae
+      internalID: -1554012769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_91
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 627
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07523a86b6a4ad247bc64a699ebfc822
+      internalID: -790718751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_92
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 627
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32762d6d90083ee4ba9a560b982d8609
+      internalID: -223924560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_93
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 655
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401e1a1917e24df4fb134a8369c85b54
+      internalID: 1408252720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_94
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 627
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b765ac431da28234fb4c1120d42cd9c3
+      internalID: -1149879848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_95
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 627
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9b1681ab844f64a96b525ea6d8aee9
+      internalID: 211619274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_96
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 627
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104aba6891aa3b348901a4010abf19c6
+      internalID: 1022765260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_97
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 584
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e277277cbfc354a8a2c6b23a33d24e
+      internalID: -1091771990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_98
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 584
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611b932f62709b74f91955233a7a153c
+      internalID: -955013448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_99
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 584
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b986d0888386924f8e02c638955378c
+      internalID: -453748597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_100
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 584
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db952373650707d45afaafeae4b60ff2
+      internalID: 2123917984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_101
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 541
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a958d1a86de8d084aa6f9e5ede7afbc5
+      internalID: 282939883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_102
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 541
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb9484fe8cf31747b2778b84f0f6271
+      internalID: -1402014265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_103
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 541
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0c7a53748109e42bdc1a2b57b313fc
+      internalID: -357661168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_104
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 541
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f4aed56300a8e4fac0f0c343e6c6fb
+      internalID: 1253550493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_105
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 541
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72654cac405e67b4ab202dade0eaf77f
+      internalID: -1185641413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_106
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 489
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4365488166a6f84087a1a61c9fb68e2
+      internalID: -1312696786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_107
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 489
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2179efa7ad9def24d940ad542a52c294
+      internalID: -1849437909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_108
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 489
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0656c9433641ba048b35d029f78d7412
+      internalID: -47317524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_109
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 489
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb842133be22e444bf31cd2708531cd
+      internalID: 686906022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_110
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 489
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108455081f9fcdb45bb5763c291fa404
+      internalID: 374792375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_111
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 489
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af4183315e30b444827e4e2a5003aa6
+      internalID: 83415221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_112
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 489
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df64edf149979f54da19cae3ab16ab6f
+      internalID: -1487779890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_113
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 489
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a16fde91396b744c929577d3b3c30e1
+      internalID: -1655428049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_114
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 489
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c25e8767fa56234890f90dceeb99918
+      internalID: 331737249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_115
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 489
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3216bb16b917140918f6b4243a0f23
+      internalID: 1221783733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_116
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 479
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7d03578acbc9c438a114d68b0c7d7f
+      internalID: -82463141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_117
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 479
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173a6230c1eb4ec419da62b7458da866
+      internalID: -1017415208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_118
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 479
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f7052bafd97ee4b97648170122b6be
+      internalID: -239992544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_119
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 479
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba595e56e6e7e6545ad5b313f8cee9fe
+      internalID: 702410439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_120
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 479
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f83bf77f9ed9e409aba7aa05e6db41
+      internalID: 1871436847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_121
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 479
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1293c14b3552b247ba3d135db5882c0
+      internalID: -351247730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_122
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 479
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5d4739a6d43794cb261cbfc40a5667
+      internalID: 695707989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_123
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 479
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe1ad2c9b8868044b9d361a47476414
+      internalID: 1942728728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_124
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 435
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bc7ae6081a9ea44bbb0abd7fde1876
+      internalID: -1878015290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_125
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 435
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52575a5f6684405478d6ad02164e944c
+      internalID: 1545209805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_126
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 435
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c419eb16915c5ce4d9378ff4fc06a47f
+      internalID: 338194083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_127
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 435
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bcf456e02c399489731a49254664c9
+      internalID: -826346778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_128
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 435
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3863b4b9d047269489e67f7b66daf930
+      internalID: 1755982100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_129
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 435
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecf8fb795dd5b24f89852a830ad5024
+      internalID: -104425870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_130
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 435
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc776de8ee7b3fd48b9821766282812a
+      internalID: -51489375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_131
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 435
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8992f25b5a6e0484393fafce3eb09701
+      internalID: 312521345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_132
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 435
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ffd7723a99f31468e167755a57387a
+      internalID: -1737266250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_133
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 435
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ae55c4813ee284abd52641c6873a6a
+      internalID: -1553552065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_134
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 435
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3990613b89b75f438ed5a6dadce1159
+      internalID: 1386285090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_135
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 435
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd4f160e308e4a42bdc4afc4edcb276
+      internalID: -1185423152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_136
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 435
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128c303920ab7aa4c8f7d289ecafef8a
+      internalID: -1487694611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_137
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 392
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fac6b35fe8f9348acb3244660193e1
+      internalID: -763492240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_138
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 392
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb34541471c6c1488910aa10031a6af
+      internalID: 1039636074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_139
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 392
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801be987ae2881840922ddeac4c072e5
+      internalID: -2080846386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_140
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 392
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f652f0713f5653b4598ae57c79d2ac8a
+      internalID: 1911745622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_141
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 392
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdd11740ee7964478fac88f42edcba9
+      internalID: -648120431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_142
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 392
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf40d8a3617bc4d49aab492e52a81f6f
+      internalID: 68839977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_143
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 392
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4155cc304bceb5749a2f48bf18a8d3ff
+      internalID: -976401788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_144
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 392
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2887d9c638f09048969a0ec322512a4
+      internalID: 1377426747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_145
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 392
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9e6f36817c03542bf4c96d1775fc1a
+      internalID: -699483187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_146
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 382
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f61af1ae94c6bf4cb1c9c655bea609e
+      internalID: 439003135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_147
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 382
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67ebbeac4acf464780f9409f7ae9ee8
+      internalID: 1081770606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_148
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 382
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a3e17545f59724eb43fd5f03f534be
+      internalID: 577675925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_149
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 382
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a5fffea4e1ba9469951461fca9eeaa
+      internalID: 1758660840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_150
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 382
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06029c99c948aaf419ebad3b25be28cd
+      internalID: -659167253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_151
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 382
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a225412476f3647a67c0a5858ff973
+      internalID: -1021787423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_152
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 382
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0e68bac923fa04aa1d6d5f0a66b52d
+      internalID: -1250748103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_153
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 382
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d0bdc83bc11bc409c889abaa9da6b4
+      internalID: -577559547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_154
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 382
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bab9eca767559045afde7e15645a980
+      internalID: 704914515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_155
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 382
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1e50145ad0b02498b1714053a99442
+      internalID: 1095855428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_156
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 382
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64b0af12b68bea468f53a948b982edc
+      internalID: 880572050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_157
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 382
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6db5a089ffd14418b6e633bfecab62
+      internalID: -295505064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_158
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 381
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40022d9203cf28d45906dee04b6b4704
+      internalID: -2110904551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_159
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 382
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f29a71ee555744cbd7e333ac9d2412
+      internalID: 1416125943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_160
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 382
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb4e973de784ee4c9da102123ae0fde
+      internalID: 862437834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_161
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 382
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa51b02d9d4afa448a345c6018aa2ca
+      internalID: -217782880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_162
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 382
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878a4b6a4fbd7d0408fe6bdd7622235d
+      internalID: 1287183147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_163
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 382
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602c9dc17249fec45989c47bddb29841
+      internalID: -54968419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_164
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 382
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9c63b6aad62ff4385a0e14a7d26f54
+      internalID: -129799411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_165
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 338
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00deee500e0504244a1cebdc34fac22a
+      internalID: 1134359479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_166
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 338
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ad8afbd25988743958496c4188244d
+      internalID: 1972695357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_167
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 338
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9776495e78d6af64f8f579369a0bb288
+      internalID: 2090507928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_168
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 295
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4e258569ad55246b5278c05d3014a2
+      internalID: 1760238445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_169
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 295
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c9c9e86012c5447bba02049663bbf8
+      internalID: -830507925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_170
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 251
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c94363521278342868141834b1c764
+      internalID: -272384234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_171
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 251
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7f895089b8f6b489c7440a0247e5c0
+      internalID: -411417704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_172
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 251
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2850d1490190245aed08cba9725f47
+      internalID: -570202807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_173
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6b4f6be8b97154eb39ae67f7c90190
+      internalID: -1590300526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_174
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 241
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a84b007ba2ead4f902fbe9a828c0a1
+      internalID: 2095447590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_175
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 172
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2fc369c20b33b438ac26ea5106a7cc
+      internalID: 217230854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_176
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 172
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d37e39a1b991044eb2501b3e7389912
+      internalID: -727115001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_177
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5343437425f8be04f943e42c0d470159
+      internalID: 1410126824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_178
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 162
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed68c066113bdec43ae72b593e7db7c9
+      internalID: 1891701579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_179
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 162
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aab7ce9775bbde4a98ae308f657ddda
+      internalID: -2084605791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_180
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 162
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24711da6d6b66e04aa7d25b846173de8
+      internalID: -745792119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_181
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 162
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f0a37e2af7d054385b8f083b92951e
+      internalID: -323783630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_182
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 94
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bb9bfacc553c346906be6522c19008
+      internalID: 87153487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_183
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 102
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee25ad211f85c124d9e45ba7d955f60b
+      internalID: 406027763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_184
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 98
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1245d4e3a6ffd04448db80d0dba86f1c
+      internalID: -787157202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_185
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 97
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32eb326f88fa5cf4ea16c37a070e9561
+      internalID: -905457351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_186
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 98
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f353d7d8e0d784f8e5011c6ac5b51c
+      internalID: 646510726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_187
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 92
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea15c2083ddb01b47a07ed0df955e667
+      internalID: 190983601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_188
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 92
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11b71c3f552b9649b82f0a05e2ef4c2
+      internalID: 2070146884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_189
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 92
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b3fa8f81e33fe4cb7a8dbe3f3f5992
+      internalID: 1011953786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_190
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 92
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be69271e44de4345afa663784427bcc
+      internalID: 343920567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_191
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 92
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2974c30047899b64f9d30655bbaebdf5
+      internalID: -433743234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_192
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 92
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a610eb39d9a5f3f4f9e57372143106ee
+      internalID: -1808117059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_193
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 92
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118c55b1a4345b34fa47b9e3f6ae5b90
+      internalID: 1422528603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_194
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 92
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f953dfa284bea4f8495926a47ab4fc
+      internalID: -921136226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_195
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 92
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75075794ad994ad458b7d236bb01820b
+      internalID: 834280355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_196
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 92
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d4217a14d9430438986769df7f8c91
+      internalID: -1996837183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_197
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 92
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d2ee6789d03854e8f3f9a233a4ae05
+      internalID: 429280631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_198
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 95
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0239febba68e01249b682e7dca712324
+      internalID: 2057531283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_199
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 92
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b2a4fcefebec843bcfad75e3372f8d
+      internalID: 847056474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_200
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914a4908f66cbee45842a420c7316f19
+      internalID: -1169878009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_201
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2aa56203183ef43b73def424f69046
+      internalID: -632990828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_202
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6655ae50e2e62ef41be771cd63413cba
+      internalID: 342949195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_203
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3658a24d3e9c33547a92efe184af30fe
+      internalID: -2145882401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_204
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4e3dbe75b50724da996cce0d2d4165
+      internalID: 1771289366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters
+        - Sailor Moon_205
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bba2992cc56854aa7f33f8e10bd2d4
+      internalID: 66368726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a5656c99e5fd4ba48baf7c6cd4d3ba6e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_0: -969967942
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_1: 838285310
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_10: -1333413434
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_100: 2123917984
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_101: 282939883
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_102: -1402014265
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_103: -357661168
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_104: 1253550493
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_105: -1185641413
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_106: -1312696786
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_107: -1849437909
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_108: -47317524
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_109: 686906022
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_11: 1521381424
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_110: 374792375
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_111: 83415221
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_112: -1487779890
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_113: -1655428049
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_114: 331737249
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_115: 1221783733
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_116: -82463141
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_117: -1017415208
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_118: -239992544
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_119: 702410439
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_12: 266719435
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_120: 1871436847
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_121: -351247730
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_122: 695707989
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_123: 1942728728
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_124: -1878015290
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_125: 1545209805
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_126: 338194083
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_127: -826346778
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_128: 1755982100
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_129: -104425870
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_13: 1131213136
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_130: -51489375
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_131: 312521345
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_132: -1737266250
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_133: -1553552065
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_134: 1386285090
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_135: -1185423152
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_136: -1487694611
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_137: -763492240
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_138: 1039636074
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_139: -2080846386
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_14: 972967082
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_140: 1911745622
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_141: -648120431
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_142: 68839977
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_143: -976401788
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_144: 1377426747
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_145: -699483187
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_146: 439003135
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_147: 1081770606
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_148: 577675925
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_149: 1758660840
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_15: 171462894
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_150: -659167253
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_151: -1021787423
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_152: -1250748103
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_153: -577559547
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_154: 704914515
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_155: 1095855428
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_156: 880572050
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_157: -295505064
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_158: -2110904551
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_159: 1416125943
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_16: -1601166902
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_160: 862437834
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_161: -217782880
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_162: 1287183147
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_163: -54968419
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_164: -129799411
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_165: 1134359479
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_166: 1972695357
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_167: 2090507928
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_168: 1760238445
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_169: -830507925
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_17: 235121959
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_170: -272384234
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_171: -411417704
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_172: -570202807
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_173: -1590300526
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_174: 2095447590
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_175: 217230854
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_176: -727115001
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_177: 1410126824
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_178: 1891701579
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_179: -2084605791
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_18: -1310782871
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_180: -745792119
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_181: -323783630
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_182: 87153487
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_183: 406027763
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_184: -787157202
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_185: -905457351
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_186: 646510726
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_187: 190983601
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_188: 2070146884
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_189: 1011953786
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_19: 850877411
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_190: 343920567
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_191: -433743234
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_192: -1808117059
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_193: 1422528603
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_194: -921136226
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_195: 834280355
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_196: -1996837183
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_197: 429280631
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_198: 2057531283
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_199: 847056474
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_2: 97343917
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_20: -429951892
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_200: -1169878009
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_201: -632990828
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_202: 342949195
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_203: -2145882401
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_204: 1771289366
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_205: 66368726
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_21: -413206671
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_22: -2081804062
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_23: 1384789104
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_24: -143944318
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_25: 1652636983
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_26: -1881478136
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_27: 1278187348
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_28: 1828169954
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_29: 271856876
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_3: 825142649
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_30: 1900249173
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_31: 367185616
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_32: -1648530131
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_33: -499471272
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_34: -616808465
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_35: -1686606119
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_36: 1594915729
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_37: -305591913
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_38: -1179869868
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_39: -693816845
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_4: -1957755466
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_40: 806190955
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_41: 250203373
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_42: -149499896
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_43: -1682039018
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_44: -2108320141
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_45: 2042380094
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_46: 632224029
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_47: -2038813523
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_48: 152481441
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_49: -1752427019
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_5: 661988741
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_50: -148165400
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_51: -1914441663
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_52: 707703861
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_53: -1760324992
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_54: -1709871912
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_55: 2029871705
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_56: -2003925415
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_57: 216412135
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_58: 1460623927
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_59: -1151838031
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_6: 1453151852
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_60: -1140124770
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_61: 1745256450
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_62: -317848833
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_63: 1738740077
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_64: -199931226
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_65: -1451042828
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_66: 488368294
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_67: 246007488
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_68: -264223754
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_69: -904891162
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_7: 967378806
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_70: -1607618769
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_71: -1008494212
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_72: 938660233
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_73: 1649759916
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_74: -1879585317
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_75: -254008436
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_76: -753925912
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_77: -249570607
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_78: 982913551
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_79: -407643754
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_8: -1887019459
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_80: -37049796
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_81: 2119885912
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_82: -716149363
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_83: -1650331439
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_84: -1206033490
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_85: 1553228343
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_86: -1521518244
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_87: 1313507505
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_88: -913886667
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_89: 2003822713
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_9: -149253059
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_90: -1554012769
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_91: -790718751
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_92: -223924560
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_93: 1408252720
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_94: -1149879848
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_95: 211619274
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_96: 1022765260
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_97: -1091771990
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_98: -955013448
+      SNES - Bishoujo Senshi Sailor Moon_ Another Story (JPN) - Playable Characters - Sailor Moon_99: -453748597
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
